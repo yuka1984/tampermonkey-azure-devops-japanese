@@ -4,7 +4,8 @@
 // @version      0.0.10
 // @description  Replace major English words into Japanese
 // @author       Ryuzee
-// @match        https://.*.visualstudio.com/*
+// @match        https://*.visualstudio.com/*
+// @match        https://dev.azure.com/*
 // @grant        none
 // ==/UserScript==
 
